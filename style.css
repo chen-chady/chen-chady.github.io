@@ -437,6 +437,18 @@ img.right {margin: 0 0 15px 15px;}
 .archive_post_day {font: normal 1.6em Georgia,serif;}
 
 
+/*自己加的代码，为了加入图片的*/
+.post_image {
+    width: 300px; /* 设置图片宽度 */
+    height: auto; /* 自动调整高度以保持比例 */
+    margin: 10px 0; /* 添加上下间距 */
+    border-radius: 5px; /* 可选：添加圆角效果 */
+    border: 1px solid #ddd; /* 可选：添加边框 */
+}
+
+
+
+
 /* 
    Comments 
 ------------------------------------------------------------------- */
